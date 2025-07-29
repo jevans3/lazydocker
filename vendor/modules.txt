@@ -61,7 +61,7 @@ github.com/jesseduffield/yaml
 github.com/konsorten/go-windows-terminal-sequences
 # github.com/mattn/go-colorable v0.1.4
 github.com/mattn/go-colorable
-# github.com/mattn/go-isatty v0.0.11
+# github.com/mattn/go-isatty v0.0.16
 github.com/mattn/go-isatty
 # github.com/mattn/go-runewidth v0.0.8
 github.com/mattn/go-runewidth
@@ -74,7 +74,7 @@ github.com/opencontainers/go-digest
 # github.com/opencontainers/image-spec v1.0.1
 github.com/opencontainers/image-spec/specs-go
 github.com/opencontainers/image-spec/specs-go/v1
-# github.com/pkg/errors v0.8.1
+# github.com/pkg/errors v0.9.1
 github.com/pkg/errors
 # github.com/pmezard/go-difflib v1.0.0
 github.com/pmezard/go-difflib/difflib
@@ -82,14 +82,17 @@ github.com/pmezard/go-difflib/difflib
 github.com/sirupsen/logrus
 # github.com/spkg/bom v0.0.0-20160624110644-59b7046e48ad
 github.com/spkg/bom
-# github.com/stretchr/testify v1.2.2
+# github.com/stretchr/testify v1.8.3
 github.com/stretchr/testify/assert
-# golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
+# golang.org/x/net v0.9.0
 golang.org/x/net/internal/socks
 golang.org/x/net/proxy
-# golang.org/x/sys v0.0.0-20191210023423-ac6580df4449
+# golang.org/x/sys v0.7.0
+golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
-# golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
+# golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
 golang.org/x/xerrors
 golang.org/x/xerrors/internal
+# gopkg.in/yaml.v3 v3.0.1
+gopkg.in/yaml.v3
