@@ -16,18 +16,15 @@ require (
 	github.com/go-errors/errors v1.0.1
 	github.com/gogo/protobuf v1.3.1 // indirect
 	github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3
-	github.com/google/go-cmp v0.3.0 // indirect
 	github.com/gorilla/mux v1.7.3 // indirect
 	github.com/imdario/mergo v0.3.8
 	github.com/integrii/flaggy v1.4.0
 	github.com/jesseduffield/asciigraph v0.0.0-20190605104717-6d88e39309ee
 	github.com/jesseduffield/gocui v0.3.1-0.20200201013258-57fdcf23edc5
-	github.com/jesseduffield/rollrus v0.0.0-20190701125922-dd028cb0bfd7 // indirect
 	github.com/jesseduffield/termbox-go v0.0.0-20200130214842-1d31d1faa3c9 // indirect
 	github.com/jesseduffield/yaml v0.0.0-20190702115811-b900b7e08b56
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/mattn/go-colorable v0.1.4 // indirect
-	github.com/mattn/go-isatty v0.0.11 // indirect
 	github.com/mattn/go-runewidth v0.0.8 // indirect
 	github.com/mcuadros/go-lookup v0.0.0-20171110082742-5650f26be767
 	github.com/mgutz/str v1.2.0
@@ -38,12 +35,8 @@ require (
 	github.com/opencontainers/image-spec v1.0.1 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spkg/bom v0.0.0-20160624110644-59b7046e48ad
-	github.com/stretchr/testify v1.2.2
-	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553 // indirect
-	golang.org/x/sys v0.0.0-20191210023423-ac6580df4449 // indirect
-	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
-	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
-	google.golang.org/grpc v1.22.0 // indirect
-	gopkg.in/yaml.v2 v2.2.2 // indirect
+	github.com/stretchr/testify v1.8.3
+	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
+	google.golang.org/grpc v1.56.3 // indirect
 	gotest.tools v2.2.0+incompatible // indirect
 )
